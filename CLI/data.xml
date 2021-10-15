@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <floor id="floor1">
+    <room id="room11">
+      <shelf id="shelf111">
+        <book isbn="654321" name="book 1">
+      </shelf>
+    </room>
+    <room id="room12">
+      <shelf id="shelf121">
+        <book isbn="123456" name="book 2"/>
+      </shelf>
+    </room>
+  </floor>
+  <floor id="floor2">
+    <room id="room21">
+      <shelf id="shelf211">
+        <book isbn="456789" name="book 3"/>
+      </shelf>
+    </room>
+  </floor>
+</library>

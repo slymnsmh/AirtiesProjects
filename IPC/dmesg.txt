@@ -1,0 +1,3 @@
+Running...!
+Random number: -73
+Module closed!
